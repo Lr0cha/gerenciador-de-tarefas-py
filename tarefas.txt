@@ -1,0 +1,20 @@
+Título: Escrever Resumo
+Descrição: Sobre A Flora Brasileira
+Data Publicação:23/05/2024
+Data máxima: 25/05/2024
+Status: Completa
+Título: Treinar Peito Na Academia
+Descrição: Fazer 5 Exercícios
+Data Publicação:23/05/2024
+Data máxima: Não informado
+Completa: Pendente
+Título: Levar O Cachorro Em Um Passeio
+Descrição: No Parque Às 14 Horas
+Data Publicação:23/05/2024
+Data máxima: 23/05/2024
+Completa: Pendente
+Título: Ir Pra Faculdade
+Descrição: Ir De Carona
+Data Publicação:23/05/2024
+Data máxima: Não informado
+Completa: Pendente
