@@ -12,5 +12,5 @@ Este é um projeto desenvolvido de forma didática para aplicar e aprofundar as 
 ## Implementações Futuras
 Como ainda estou em processo de qualificação e finalização do curso, o código atual pode sofrer algumas atualizações futuras, como:
 
-- Adicionar uma funcionalidade para salvar as tarefas em um arquivo e carregá-las ao iniciar o programa.
-- Criar categorias para tarefas e permitir que os usuários filtrem por categoria.
+- [x]Adicionar uma funcionalidade para salvar as tarefas em um arquivo e carregá-las ao iniciar o programa.
+- [ ]Criar categorias para tarefas e permitir que os usuários filtrem por categoria.
